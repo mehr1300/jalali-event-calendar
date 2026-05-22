@@ -43,7 +43,8 @@ export default App;
 ```
 
 ## Screenshots
-![Calendar View](screenshot.png)
+![Calendar View](https://raw.githubusercontent.com/mehr1300/persian-calendar-tailwind/refs/heads/master/screenshot.png)
+
 
 ---
 
@@ -92,4 +93,4 @@ export default App;
 ```
 
 ## تصاویر (Screenshots)
-![نمای تقویم](screenshot.png)
+![Calendar View](https://raw.githubusercontent.com/mehr1300/persian-calendar-tailwind/refs/heads/master/screenshot.png)
