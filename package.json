@@ -1,6 +1,6 @@
 {
   "name": "persian-calendar-tailwind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A modern and customizable Persian (Jalali) calendar component for React, built with Tailwind CSS.",
   "keywords": [
     "react",
@@ -14,6 +14,7 @@
     "tailwindcss",
     "date-picker"
   ],
+  "homepage": "https://github.com/mehr1300/persian-calendar-tailwind#readme",
   "author": "mehr1300",
   "license": "MIT",
   "type": "module",
