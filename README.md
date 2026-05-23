@@ -27,14 +27,14 @@ To use this package, first import the component and then its stylesheet into you
 ```jsx
 import React from 'react';
 // 1. Import the component
-import { PersianCalendar } from 'jalali-event-calendar';
+import { JalaliEventCalendar } from 'jalali-event-calendar';
 // 2. Import the calendar styles
 import 'jalali-event-calendar/style.css'; 
 
 const App = () => {
   return (
     <div className="tw:flex tw:flex-col tw:p-20 tw:dark:bg-gray-900 tw:h-screen">
-      <PersianCalendar />
+      <JalaliEventCalendar />
     </div>
   );
 };
@@ -77,14 +77,14 @@ npm install jalali-event-calendar
 ```jsx
 import React from 'react';
 // ۱. ایمپورت کردن کامپوننت
-import { PersianCalendar } from 'jalali-event-calendar';
+import { JalaliEventCalendar } from 'jalali-event-calendar';
 // ۲. ایمپورت کردن استایل‌های تقویم
 import 'jalali-event-calendar/style.css'; 
 
 const App = () => {
   return (
     <div className="tw:flex tw:flex-col tw:p-20 tw:dark:bg-gray-900 tw:h-screen">
-      <PersianCalendar />
+      <JalaliEventCalendar />
     </div>
   );
 };

@@ -1,6 +1,6 @@
 import '../index.css';
 
-export { default as PersianCalendar } from './Calendar';
+export { default as JalaliEventCalendar } from './Calendar';
 
 
 
