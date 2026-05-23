@@ -1,4 +1,4 @@
-# Persian Calendar Tailwind
+# Jalali Event Calendar
 
 A modern and beautiful Jalali (Persian) calendar component for React, built with Tailwind CSS.
 
@@ -48,7 +48,7 @@ export default App;
 
 ---
 
-# تقویم شمسی با تیلویند (Persian Calendar Tailwind)
+# تقویم شمسی با تیلویند (Jalali Event Calendar)
 
 یک کامپوننت تقویم شمسی (جلالی) مدرن و زیبا برای React که با استفاده از Tailwind CSS ساخته شده است.
 
