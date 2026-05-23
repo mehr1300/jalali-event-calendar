@@ -1,20 +1,19 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
 
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react(),  tailwindcss(),],
-  base: '/persian-calendar-tailwind/',
+  plugins: [react()],
+  base: '/jalali-event-calendar/',
   build: {
     lib: {
       entry: 'src/lib/index.js',
       name: 'PersianCalendar',
-      fileName: (format) => `persian-calendar.${format}.js`
+      fileName: (format) => `jalali-event-calendar.${format}.js`
     },
     rollupOptions: {
-      external: ['react', 'react-dom'],
+      external: ['react', 'react-dom', 'react/jsx-runtime'],
       output: {
         globals: {
           react: 'React',

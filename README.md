@@ -2,10 +2,10 @@
 
 A modern and beautiful Jalali (Persian) calendar component for React, built with Tailwind CSS.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mehr1300/persian-calendar-tailwind)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://mehr1300.github.io/persian-calendar-tailwind/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mehr1300/jalali-event-calendar)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://mehr1300.github.io/jalali-event-calendar/)
 
-**🔗 [Click here to view the Live Demo](https://mehr1300.github.io/persian-calendar-tailwind/)**
+**🔗 [Click here to view the Live Demo](https://mehr1300.github.io/jalali-event-calendar/)**
 
 ## Features
 - Full Jalali (Persian) date support
@@ -17,7 +17,7 @@ A modern and beautiful Jalali (Persian) calendar component for React, built with
 
 Using npm:
 ```bash
-npm install persian-calendar-tailwind
+npm install jalali-event-calendar
 ```
 
 ## Usage
@@ -27,9 +27,9 @@ To use this package, first import the component and then its stylesheet into you
 ```jsx
 import React from 'react';
 // 1. Import the component
-import { PersianCalendar } from 'persian-calendar-tailwind';
+import { PersianCalendar } from 'jalali-event-calendar';
 // 2. Import the calendar styles
-import 'persian-calendar-tailwind/dist/style.css'; 
+import 'jalali-event-calendar/style.css'; 
 
 const App = () => {
   return (
@@ -43,7 +43,7 @@ export default App;
 ```
 
 ## Screenshots
-![Calendar View](https://raw.githubusercontent.com/mehr1300/persian-calendar-tailwind/refs/heads/master/screenshot.png)
+![Calendar View](https://raw.githubusercontent.com/mehr1300/jalali-event-calendar/refs/heads/master/screenshot.png)
 
 
 ---
@@ -52,10 +52,10 @@ export default App;
 
 یک کامپوننت تقویم شمسی (جلالی) مدرن و زیبا برای React که با استفاده از Tailwind CSS ساخته شده است.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mehr1300/persian-calendar-tailwind)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://mehr1300.github.io/persian-calendar-tailwind/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/mehr1300/jalali-event-calendar)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://mehr1300.github.io/jalali-event-calendar/)
 
-**🔗 [برای مشاهده دموی زنده کلیک کنید](https://mehr1300.github.io/persian-calendar-tailwind/)**
+**🔗 [برای مشاهده دموی زنده کلیک کنید](https://mehr1300.github.io/jalali-event-calendar/)**
 
 ## ویژگی‌ها
 - پشتیبانی کامل از تاریخ شمسی
@@ -67,7 +67,7 @@ export default App;
 
 با استفاده از npm:
 ```bash
-npm install persian-calendar-tailwind
+npm install jalali-event-calendar
 ```
 
 ## نحوه استفاده
@@ -77,9 +77,9 @@ npm install persian-calendar-tailwind
 ```jsx
 import React from 'react';
 // ۱. ایمپورت کردن کامپوننت
-import { PersianCalendar } from 'persian-calendar-tailwind';
+import { PersianCalendar } from 'jalali-event-calendar';
 // ۲. ایمپورت کردن استایل‌های تقویم
-import 'persian-calendar-tailwind/dist/style.css'; 
+import 'jalali-event-calendar/style.css'; 
 
 const App = () => {
   return (
@@ -93,4 +93,4 @@ export default App;
 ```
 
 ## تصاویر (Screenshots)
-![Calendar View](https://raw.githubusercontent.com/mehr1300/persian-calendar-tailwind/refs/heads/master/screenshot.png)
+![Calendar View](https://raw.githubusercontent.com/mehr1300/jalali-event-calendar/refs/heads/master/screenshot.png)
